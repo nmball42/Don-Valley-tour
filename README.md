@@ -1,12 +1,16 @@
 # Mapping a historical tour of Sheffield’s Don Valley using uMap
 
-Last updated: Feb 05th 2026
+Last updated: Feb 06th 2026
 
 My brother Andrew wrote a [walking tour of the historical roots of the modern steel industry, Sheffield’s Don Valley](https://andrewsnotepad.blogspot.com/2026/01/the-lower-don-valley-history-tour.html) for his blog.
 
 The open-source software uMap with an OpenStreetMap base can be used to turn this into a visual tour with a map, walking route, text and photographs. uMap can be used similarly for any piece of writing that involves traveling around an area.
 
 The map is available [here](https://umap.openstreetmap.de/en/map/don-valley_110284).
+
+## Disclaimer
+
+This is a personal project built as part of my transition from generalist data scientist to specializing in geospatial data science, GIS, and GeoAI. The aim is for this project to be shareable, but it is not designed for production use.
 
 ## Requirements
 
