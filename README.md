@@ -6,6 +6,8 @@ My brother Andrew wrote a [walking tour of the historical roots of the modern st
 
 The open-source software uMap with an OpenStreetMap base can be used to turn this into a visual tour with a map, walking route, text and photographs. uMap can be used similarly for any piece of writing that involves traveling around an area.
 
+A blogpost is [here](https://nickballdatascience.com/mapping-a-historical-tour-of-sheffields-don-valley-where-the-worlds-steel-industry-began/).
+
 The map is available [here](https://umap.openstreetmap.de/en/map/don-valley_110284).
 
 ## Disclaimer
